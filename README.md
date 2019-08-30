@@ -30,6 +30,6 @@ ele traz o branch do remoto para o repositorio local (antesfetch, depoisfetch)
 
 utilizando pull
 
-ele faz o download do remoto direto diretorio do workspace (antespull, depoispull)
+ele faz o download do remoto direto ao diretorio do workspace (antespull, depoispull, pull2)
 
 
