@@ -17,6 +17,19 @@ usando Commit
 1- vefiquei que todos os arquivos estavam prontos para o commit(antescommit)    
 2- enviei os arquivos do workspace para o repositório local(comcommit)  
 
+usando push  
+1 - utilizei o comando, fiz o login com a senha e verifiquei no github o envio dos arquivos  
+(antespush, pushmeio,pushfeito)  
 
+usando checkout
+ 1 - ele altera qual branch estou utilizando, no caso sai do master para o checkoutbranch(checkout)
+
+usando fetch
+
+ele traz o branch do remoto para o repositorio local (antesfetch, depoisfetch)
+
+utilizando pull
+
+ele faz o download do remoto direto diretorio do workspace (antespull, depoispull)
 
 
